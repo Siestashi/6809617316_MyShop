@@ -1,0 +1,43 @@
+img {
+    width: 500px;
+}
+body {
+    background-image: url(resources/background.jpg);
+    background-size: 700px;
+    font-style: punda Sans;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    
+    
+}
+
+footer {
+    background-color: rgb(40, 40, 40);
+    color: rgb(232, 232, 232);
+    
+}
+
+header {
+    background-color: rgb(227, 241, 213);
+    width: fit-content;
+    border-radius: 2px;
+    font-size: large;
+    font-weight: 500;
+}
+
+article {
+    background-color: rgb(227, 241, 213);
+     border-radius: 8px;
+    width: fit-content;
+    
+
+}
+
+
+.url {
+    background-color: white;
+    width: fit-content;
+
+}
