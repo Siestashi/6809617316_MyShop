@@ -1,5 +1,6 @@
 img {
     width: 500px;
+    background: #c9def5;
 }
 body {
     background-image: url(resources/background.jpg);
